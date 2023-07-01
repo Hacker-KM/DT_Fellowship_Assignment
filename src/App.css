@@ -1,0 +1,14 @@
+.relative{
+    position: relative;
+}
+
+.responsive{
+    @media screen and (max-width:768px) {
+        flex-direction: column;
+        gap: 40px;
+    }
+}
+
+.rounded{
+    border-radius: 10px;
+}

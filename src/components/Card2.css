@@ -1,0 +1,46 @@
+.align{
+    right:25px;
+    top:28%;
+}
+.arrow{
+    padding-right: 2.5rem;
+}
+.font{
+    font-family:'poppins';
+    font-size: 11px;
+    margin-left:10px ;
+}
+.font-1{
+    font-family:'poppins';
+    font-size: 11px;
+    margin-left:18px ;
+    background: #0029FF;
+    color: white;
+}
+.lable{
+    font-family: 'poppins';
+    font-size: smaller;
+}
+.lablee{
+    font-family: 'poppins';
+    font-size: medium;
+}
+.cross{
+    height: 34px;
+    justify-content: end;
+    margin-top: -7px;
+}
+.ss{
+    img:focus{
+ background-color: red;
+}
+}
+
+.one{
+    border:0px;
+    background-color: white;
+}
+
+.one:active{
+    border:0px;
+}

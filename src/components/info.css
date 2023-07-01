@@ -1,0 +1,10 @@
+.con{
+    padding-inline: 14rem;
+    padding-top: 2rem;
+}
+.content{
+    font-family: poppins;
+    background-color: #E9ECEF;
+    border-radius: 10px;
+    padding: 20px;
+}

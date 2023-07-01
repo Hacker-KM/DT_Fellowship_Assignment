@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  color: #0029ff;
+  font-family: 'poppins';
+}
+.head-btn {
+  background-color: #0029ff;
+  border-radius: 12px;
+  color: white;
+  border-width: 0;
+  width: 121px;
+  height: 36px;
+  font-size: smaller;
+}
